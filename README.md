@@ -10,11 +10,11 @@ Le fichier [profile/README.md](profile/README.md) est affiché sur la [page publ
 
 Dans la page de l’organisation, sélectionner la vue **Public**, puis **Customize pins** et ces six cours :
 
-1. `1-X75-MDB` — Outils et méthodes du développeur
-2. `1-X75-LPB` — Langages de programmation, bases
-3. `1-X75-LDB` — Bases de données relationnelles
-4. `1-X75-ADB` — Conception d’un site web
-5. `2-X64-PWF` — Programmation web, frontend
-6. `2-X64-PWB` — Programmation web, backend
+1. `1-X75-MDB` - Outils et méthodes du développeur
+2. `1-X75-LPB` - Langages de programmation, bases
+3. `1-X75-LDB` - Bases de données relationnelles
+4. `1-X75-ADB` - Conception d’un site web
+5. `2-X64-PWF` - Programmation web, frontend
+6. `2-X64-PWB` - Programmation web, backend
 
 Les épingles se configurent dans l’interface GitHub. Elles ne sont pas définies par le README.

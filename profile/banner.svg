@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">EFP DEV — Comprendre. Coder. Construire.</title>
+  <desc id="description">Bannière bleu nuit, typographie crème et motif de pixels corail.</desc>
+  <rect width="1200" height="320" rx="16" fill="#172830"/>
+  <rect x="48" y="48" width="32" height="4" rx="2" fill="#ff846b"/>
+  <text x="96" y="56" fill="#bdcdc9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">DÉVELOPPEMENT WEB</text>
+  <text x="44" y="174" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">EFP / DEV</text>
+  <text x="48" y="237" fill="#bdcdc9" font-family="Arial, Helvetica, sans-serif" font-size="30">Comprendre. Coder. Construire.</text>
+  <g fill="#243e46">
+    <rect x="880" y="48" width="44" height="44" rx="5"/>
+    <rect x="936" y="48" width="44" height="44" rx="5"/>
+    <rect x="992" y="48" width="44" height="44" rx="5"/>
+    <rect x="1048" y="48" width="44" height="44" rx="5"/>
+    <rect x="1104" y="48" width="44" height="44" rx="5"/>
+    <rect x="880" y="104" width="44" height="44" rx="5"/>
+    <rect x="992" y="104" width="44" height="44" rx="5"/>
+    <rect x="1104" y="104" width="44" height="44" rx="5"/>
+    <rect x="936" y="160" width="44" height="44" rx="5"/>
+    <rect x="992" y="160" width="44" height="44" rx="5"/>
+    <rect x="1048" y="160" width="44" height="44" rx="5"/>
+    <rect x="880" y="216" width="44" height="44" rx="5"/>
+    <rect x="992" y="216" width="44" height="44" rx="5"/>
+    <rect x="1104" y="216" width="44" height="44" rx="5"/>
+  </g>
+  <g fill="#ff846b">
+    <rect x="936" y="104" width="44" height="44" rx="5"/>
+    <rect x="1048" y="104" width="44" height="44" rx="5"/>
+    <rect x="880" y="160" width="44" height="44" rx="5"/>
+    <rect x="1104" y="160" width="44" height="44" rx="5"/>
+    <rect x="936" y="216" width="44" height="44" rx="5"/>
+    <rect x="1048" y="216" width="44" height="44" rx="5"/>
+  </g>
+</svg>
